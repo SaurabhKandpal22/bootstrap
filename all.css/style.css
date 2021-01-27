@@ -1,0 +1,20 @@
+.ab{
+    background-image: url("/images/banner_back.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 900px;
+    
+}
+.ra{
+    background-image: url("/images/team_back.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 140px;
+    
+}
+
+.ww{
+    background-image: url("/images/services_back.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
